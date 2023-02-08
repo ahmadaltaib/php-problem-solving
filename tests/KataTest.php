@@ -3,7 +3,7 @@
 namespace Tests;
 
 use PHPUnit\Framework\TestCase;
-use swkberlin\Kata;
+use altaib\Kata;
 
 require __DIR__ . '/../vendor/autoload.php';
 

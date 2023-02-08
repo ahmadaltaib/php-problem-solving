@@ -1,6 +1,6 @@
 <?php
 
-namespace swkberlin;
+namespace altaib;
 
 class Kata
 {

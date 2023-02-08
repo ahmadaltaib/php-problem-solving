@@ -1,5 +1,5 @@
 {
-  "name": "swkberlin/php",
+  "name": "altaib/php",
   "description": "Shell project for PHP testing",
   "license": "MIT",
   "authors": [
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "swkberlin\\": "src/"
+      "altaib\\": "src/"
     }
   },
   "autoload-dev": {
